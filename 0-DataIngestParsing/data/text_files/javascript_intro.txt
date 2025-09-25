@@ -1,0 +1,4 @@
+
+JavaScript is a high-level, interpreted programming language primarily used to make web pages interactive. While HTML structures content and CSS styles it, JavaScript adds life by handling dynamic behavior such as animations, form validation, interactive maps, and real-time updates without reloading a page. It runs directly in web browsers, making it the backbone of modern web development alongside HTML and CSS.
+
+Beyond the browser, JavaScript is also widely used on servers with Node.js, enabling developers to build full-stack applications using a single language. It has a massive ecosystem of libraries and frameworks like React, Vue, and Angular for front-end, and Express.js for back-end. Its versatility, ease of use, and community support make JavaScript one of the most important and widely used languages in the world today.

@@ -1,0 +1,30 @@
+
+🐍 Introduction to Python Programming Language
+1. What is Python?
+
+Python is a high-level, interpreted, general-purpose programming language created by Guido van Rossum and first released in 1991.
+It’s designed to be easy to read, write, and learn, making it one of the most popular languages in the world today.
+
+2. Why is Python so popular?
+
+✅ Simple syntax (looks like plain English).
+
+✅ Versatile (can be used for web apps, data science, AI, automation, games, etc.).
+
+✅ Huge community & libraries (lots of free tools and support).
+
+✅ Cross-platform (works on Windows, macOS, Linux, and even mobile/embedded systems).
+
+3. Key Features
+
+Interpreted: You don’t need to compile it, just run directly.
+
+Dynamic typing: No need to declare variable types (x = 10 works without saying int).
+
+Object-oriented: Supports classes and objects.
+
+Extensible: Can integrate with C, C++, Java, etc.
+
+Portable: Write once, run anywhere.
+
+Large Standard Library: Comes with modules for math, files, networking, and more.
